@@ -1,11 +1,11 @@
-#Queen Mary University Graphs and Work
+# Queen Mary University Graphs and Work
 
-#Objective
+## Objective
 This repo displays some of my work from my datavisualisation course
 
 All the graphs have been coded in R studio
 
-#Overview
+## Overview
   
   | **Topic**                     | **Main Packages**      | 
   |:------------------------------|:-----------------------| 
@@ -18,29 +18,29 @@ All the graphs have been coded in R studio
   |[Rules of Data Tidying]        |tidyverse               |
   |                               |                        |
   
-#Gallery
+# Gallery
 
-#[Data visualisation assessment]
+## [Data visualisation assessment]
 
 ![plot](./Plots/Assessment_Plot)
 
-#[Data Visualisation Skills]
--X/Y patchwork
+## [Data Visualisation Skills]
+X/Y patchwork
 
 ![plot](./Plots/XY_patchwork)
 
--Facet Wrap
+Facet Wrap
 
 ![plot](./Plots/facet_wrap)
 
--Geom Point
+Geom Point
 
 ![plot](./Plots/gmpoint)
 
--Patchwork
+Patchwork
 
 ![plot](./Plots/patchwork)
 
-#[Rules of Data Tidying]
+## [Rules of Data Tidying]
 
 ![plot](./Plots/rules_of_tidy)
